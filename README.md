@@ -9,5 +9,5 @@ pip install -r requirements.txt
 # 2. Make sure Google Chrome is installed on your system
 
 # 3. Run the scraper
-python scraper.py
+python scraper.py 
 
